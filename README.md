@@ -50,6 +50,7 @@ In Ruby, tests are handled by a tool called [Rspec][rspec]. Rspec is written in 
 we will see, has some custom functionality built in specifically for writing and
 running tests.
 
+testslearn
 ### Directory Structure
 
 The structure of this lab — where its files and folders are located — looks
